@@ -2,6 +2,7 @@
 % $Id: rel_mlp.def,v 1.0 2016/08/19 09:30:00 lwives Exp $
 %
 \ProvidesFile{rel_mlp.def}[2016/08/19 Relatório de MLP]
+\RequirePackage[utf8]{inputenc}
 
 \newcommand{\titlepagespecificinfo} {Relatório apresentado como requisito parcial para a obten{\c{c}}{\~a}o de conceito na Disciplina de Modelos de Linguagens de Programa{\c{c}}{\~a}o}
 \def\@cipspecificinfo{Modelos de Linguagens de Programa{\c{c}}{\~a}o}
